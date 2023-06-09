@@ -9,7 +9,7 @@
 
 Configurar base de datos con archivo adjunto en carpeta database:
  
-    mysql -u root empleados < autos_db.sql -p 
+    mysql -u root nombre_db < autos_db.sql -p 
 
 Configurar credenciales de base de datos en archivo .env:
 
